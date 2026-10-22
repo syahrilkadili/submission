@@ -1,1 +1,1 @@
-https://[ISI-NAMA-APP].streamlit.app
+https://submission-akhir-mohsyahril.streamlit.app
